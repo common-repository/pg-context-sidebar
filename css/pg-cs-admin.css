@@ -1,0 +1,45 @@
+
+
+#pgeek-cs-copy-from-hidden, #pgeek-cs-title-cloned, #pgeek-cs-title-copied{
+	height: 20px;
+}
+#pgeek-cs-content-cloned, #pgeek-cs-content-copied {
+	height: 170px;
+}
+
+#pgeek_cs_meta .pgeek-cs-status-img {
+	float: right;
+	margin-top: -5px;
+}
+
+#pgeek-cs {
+	width: 60px;
+}
+#the-list td.pgeek-cs{
+	color:red;
+	width: 40px;
+}
+.pgeek-cs-status-img {
+    background-image: url("../images/pg-cs-status-sprite.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 24px;
+    margin: 3px 0 0;
+    padding: 0;
+    width: 24px;
+}
+.pgeek-cs-status-img.none {
+	background-position: 0 0;
+}
+.pgeek-cs-status-img.original {
+	background-position: -24px 0;
+}
+.pgeek-cs-status-img.redisplay {
+	background-position: -48px 0;
+}
+.pgeek-cs-status-img.template {
+	background-position: -72px 0;
+}
+.pgeek-cs-status-img.problem {
+	background-position: -96px 0;
+}

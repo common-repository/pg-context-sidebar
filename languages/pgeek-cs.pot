@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PG Context Sensitive Sidebar\n"
+"POT-Creation-Date: 2012-12-01 17:03-0000\n"
+"PO-Revision-Date: 2012-12-01 17:03-0000\n"
+"Last-Translator: \n"
+"Language-Team: PeoplesGeek\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr__;esc_attr_e;"
+"esc_html__;esc_html_e;_x;_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: pg-context-sidebar.php:86
+msgid "Context Sensitve Sidebar"
+msgstr ""
+
+#: pg-context-sidebar.php:173
+msgid ""
+"This content is shown in the sidebar by the PG Context Sensitive Sidebar "
+"widget. It is only displayed in the sidebar when this page is shown."
+msgstr ""
+
+#: pg-context-sidebar.php:176
+msgid "Sidebar Title:"
+msgstr ""
+
+#: pg-context-sidebar.php:178
+msgid "The title will stay in sync with the selected page/post"
+msgstr ""
+
+#: pg-context-sidebar.php:179
+msgid "The title will be taken from the selected page/post"
+msgstr ""
+
+#: pg-context-sidebar.php:182
+msgid "Sidebar Content:"
+msgstr ""
+
+#: pg-context-sidebar.php:185
+msgid "The content will stay in sync with the selected page/post"
+msgstr ""
+
+#: pg-context-sidebar.php:186
+msgid "The content will be copied from the selected page/post"
+msgstr ""
+
+#: pg-context-sidebar.php:189
+msgid "Once off copy from another page/post:"
+msgstr ""
+
+#: pg-context-sidebar.php:208
+msgid "select page/post to copy Sidebar title and content"
+msgstr ""
+
+#: pg-context-sidebar.php:216
+msgid "there is no other page/post with content to copy"
+msgstr ""
+
+#: pg-context-sidebar.php:219
+msgid "If you wish to copy then deselect the page/post below"
+msgstr ""
+
+#: pg-context-sidebar.php:223
+msgid "Ongoing display of another page/post (stays in sync):"
+msgstr ""
+
+#: pg-context-sidebar.php:230
+msgid "Not available for pages that are already templates for others"
+msgstr ""
+
+#: pg-context-sidebar.php:232
+msgid "Jump to edit the page that uses this template as its source"
+msgstr ""
+
+#: pg-context-sidebar.php:241
+msgid "select page/post of Sidebar title and content to display"
+msgstr ""
+
+#: pg-context-sidebar.php:251
+msgid "there is no other page/post with content to display"
+msgstr ""
+
+#: pg-context-sidebar.php:274
+msgid "Context Sidebar"
+msgstr ""
+
+#: pg-context-sidebar.php:303
+msgid "A problem occurred determining status, please edit and check this page"
+msgstr ""
+
+#: pg-context-sidebar.php:306
+msgid "This is a template for another page/post"
+msgstr ""
+
+#: pg-context-sidebar.php:310
+msgid "Redisplay the content of another page/post (and stays in sync)"
+msgstr ""
+
+#: pg-context-sidebar.php:314
+msgid ""
+"Display original content and is not used as a template for another page/post"
+msgstr ""
+
+#: pg-context-sidebar.php:315
+msgid "No content so no widget will be displayed when this page is shown"
+msgstr ""
+
+#: pg-context-sidebar.php:321 pg-context-sidebar.php:376
+msgid "PG Context Sensitive Sidebar"
+msgstr ""
+
+#: pg-context-sidebar.php:321 pg-context-sidebar.php:428
+msgid "PG Context Sidebar"
+msgstr ""
+
+#: pg-context-sidebar.php:329
+msgid ""
+"Which pages should allow entry of content for sidebar and display of status "
+"icons"
+msgstr ""
+
+#: pg-context-sidebar.php:330
+msgid "Page / Post Types"
+msgstr ""
+
+#: pg-context-sidebar.php:332
+msgid "Remove data on uninstall"
+msgstr ""
+
+#: pg-context-sidebar.php:333
+msgid "Option Settings"
+msgstr ""
+
+#: pg-context-sidebar.php:338
+msgid ""
+"Select the types of post and page where you wish to be able to enter context "
+"sensitive information for display in the widget"
+msgstr ""
+
+#: pg-context-sidebar.php:339
+msgid ""
+"You can also choose to display status icons on the summary page (ie all "
+"pages, all posts etc)"
+msgstr ""
+
+#: pg-context-sidebar.php:343
+msgid ""
+"Option to remove plugin settings on uninstall (content for posts is not "
+"deleted)"
+msgstr ""
+
+#: pg-context-sidebar.php:354
+msgid "Post/Page/Custom Type"
+msgstr ""
+
+#: pg-context-sidebar.php:354
+msgid "Allow on edit"
+msgstr ""
+
+#: pg-context-sidebar.php:354
+msgid "Show summary icons"
+msgstr ""
+
+#: pg-context-sidebar.php:370
+msgid "Delete Plugin Settings on uninstall"
+msgstr ""
+
+#: pg-context-sidebar.php:377
+msgid "Usage"
+msgstr ""
+
+#: pg-context-sidebar.php:378
+msgid ""
+"The Context Sensitive Sidebar allows you to add content to a new metabox on "
+"your posts or pages."
+msgstr ""
+
+#: pg-context-sidebar.php:379
+msgid ""
+"This content will be displayed by the PG Context Sensitive Sidebar widget "
+"whenever that page or post is displayed."
+msgstr ""
+
+#: pg-context-sidebar.php:380
+msgid ""
+"You must enter content on pages and posts AND place the widget into a "
+"sidebar in your theme"
+msgstr ""
+
+#: pg-context-sidebar.php:381
+msgid ""
+"You can also choose to copy the content from another page/post once off, or "
+"to use another page/post as a sort of template where changes made to that "
+"one page are reflected on other pages automatically. Use the list boxes on "
+"the edit pages to select either a once off copy or an ongoing display."
+msgstr ""
+
+#: pg-context-sidebar.php:386
+msgid "Save Changes"
+msgstr ""
+
+#: pg-context-sidebar.php:427
+msgid ""
+"Display context that is related to the current post or page, or nothing if "
+"no context is set"
+msgstr ""
+
+#: pg-context-sidebar.php:434
+msgid ""
+"Enter the title and content that you wish to display in this widget on the "
+"page or post in the PG context sidebar metabox"
+msgstr ""
